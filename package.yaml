@@ -1,0 +1,12 @@
+name: networq:gdpr
+description: General Data Protection Regulation (GDPR)
+license: MIT
+
+dependencies:
+  networq:core: latest
+
+widgets:
+  gdprProcessorProperties:
+    type: networq:gdpr:processor
+    hook: properties
+    label: GDPR Processor properties
