@@ -2,4 +2,4 @@ name: profile
 labelPlural: Profiles
 labelSingular: Profile
 
-fields:
+# fields:
